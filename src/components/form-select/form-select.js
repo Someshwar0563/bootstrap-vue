@@ -1,5 +1,4 @@
-import idMixin from '../../mixins/id'
-import formOptionsMixin from '../../mixins/form-options'
+
 import formMixin from '../../mixins/form'
 import formSizeMixin from '../../mixins/form-size'
 import formStateMixin from '../../mixins/form-state'
